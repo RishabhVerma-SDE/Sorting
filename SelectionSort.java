@@ -34,8 +34,5 @@ public class SelectionSort {
 
         printArray(sortArray(arr));
    
-
-
-
     }
 }
